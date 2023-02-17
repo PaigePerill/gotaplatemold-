@@ -189,14 +189,44 @@ Recipe used: https://materiom.org/recipe/599
 
 *Tomorrow we will see*
 
-### **STEP 18:** Improve the mold taking into account the previous failures.
+### **STEP 18:** Sand.
+![](https://i.imgur.com/2MdulFQ.jpg)
+
+
+## DESIGN AND FABRICATION FILES 
+[TEST Nº1.ai](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dda9c6f7-bb09-41e5-b17b-7a4574a26e29/TEST_N1.ai)
+[TEST Nº2.ia](https://)
+[TEST Nº3.ia](https://)
+[TEST Nº4.ia](https://)
+
+## DESIGN ETHICS 
+
+This mold will allow the creation of plates made with biomaterials and not harmful to the planet, encorage the recirculation of materials. In addition, it is an easy way to create plates in a simple way without the need to have knowledge in tools such as the 3D printer.
+
+## FUTURE DEVELOPMENT OPPORTUNITY 
+For a future development of this project we want to improve this mold, taking into account the failures detected in the previous one.
+
+Changes: 
 
 - Bigger mold. 
 - More holes for the screws.
 - Thicker walls.
 - More air holes.
 
-## DESIGN ETHICS: 
+We also want to create a mold that can allow you to create other objects with different shapes by making it intercambiable. 
 
-This mold will allow the creation of plates made with biomaterials and not harmful to the planet, encorage the recirculation of materials. In addition, it is an easy way to create plates in a simple way without the need to have knowledge in tools such as the 3D printer.
+![](https://i.imgur.com/viHZivp.jpg)
 
+
+### HUMIDITY SENSOR 
+
+We are using a humidity and temperature sensor so we can track and collect data about how certain biomaterials react in different environments. 
+
+This will help us learn the right conditions for drying the materials to prevent cracking or warping. 
+
+To start we are calculating the humidity and temperature in the air. Next we would like to have this sensor be part of the mold to measure the humidity levels in our materials. 
+
+We are using a LCD screen to connect to the sensor to be able to read easily the humidity and temperature readings.
+
+![](https://i.imgur.com/pN3YICw.jpg)
+![](https://i.imgur.com/goLStpm.jpg)
