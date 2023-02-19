@@ -44,6 +44,9 @@ Paige - Background in Geography: Knowledge in biomaterials and their properties 
 
 ![](https://i.imgur.com/5xJrZH4.jpg)
 
+https://www.cor-unum.com/product/nederland-servies/
+Designed by Studio Pien Findhammer
+
 
 <br>
 <br>
@@ -192,6 +195,8 @@ Recipe used: https://materiom.org/recipe/599
 ### **STEP 18:** Sand.
 ![](https://i.imgur.com/2MdulFQ.jpg)
 
+### Final result.
+![](https://i.imgur.com/yjBMOMh.jpg)
 
 ## DESIGN AND FABRICATION FILES 
 [TEST Nº1.ai](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dda9c6f7-bb09-41e5-b17b-7a4574a26e29/TEST_N1.ai)
@@ -204,6 +209,8 @@ Recipe used: https://materiom.org/recipe/599
 This mold will allow the creation of plates made with biomaterials and not harmful to the planet, encorage the recirculation of materials. In addition, it is an easy way to create plates in a simple way without the need to have knowledge in tools such as the 3D printer.
 
 ## FUTURE DEVELOPMENT OPPORTUNITY 
+
+
 For a future development of this project we want to improve this mold, taking into account the failures detected in the previous one.
 
 Changes: 
@@ -213,7 +220,7 @@ Changes:
 - Thicker walls.
 - More air holes.
 
-We also want to create a mold that can allow you to create other objects with different shapes by making it intercambiable. 
+We also want to create a mold that can allow you to create other objects with different shapes by making it interchangeable. 
 
 ![](https://i.imgur.com/viHZivp.jpg)
 
@@ -224,9 +231,18 @@ We are using a humidity and temperature sensor so we can track and collect data 
 
 This will help us learn the right conditions for drying the materials to prevent cracking or warping. 
 
-To start we are calculating the humidity and temperature in the air. Next we would like to have this sensor be part of the mold to measure the humidity levels in our materials. 
+To start we are calculating the humidity and temperature in the air. Next we would like to have this sensor be part of the mold to measure the humidity levels of our materials. 
 
-We are using a LCD screen to connect to the sensor to be able to read easily the humidity and temperature readings.
+We are using a LCD screen to connect to the sensor to be able to read easily the humidity and temperature readings. 
 
 ![](https://i.imgur.com/pN3YICw.jpg)
 ![](https://i.imgur.com/goLStpm.jpg)
+
+ESP32 Feather Board
+Humidity & Temperature Sensor: DHT11
+LCD Screen: LCM1602C
+
+References:
+https://www.instructables.com/ESP32-How-to-Interface-LCD-With-ESP32-Microcontrol/
+
+https://www.electronicshub.org/esp32-dht11-tutorial/
